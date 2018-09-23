@@ -1,0 +1,2 @@
+,alpha,pca__n_components,savgol__deriv,savgol__polyorder,savgol__wavemax,savgol__wavemin,savgol__window_length,RMSE,R2,preds +/-1,preds +/-2,preds +/-3,preds +/-4,preds +/-6,preds +/-8,preds +/-10
+lasso,0.1,47.0,2.0,3.0,1434.0,1034.0,12.0,4.814075161024397,0.48817460668387935,0.1505922165820643,0.2673434856175973,0.38917089678510997,0.4856175972927242,0.6700507614213198,0.8003384094754653,0.8883248730964467
